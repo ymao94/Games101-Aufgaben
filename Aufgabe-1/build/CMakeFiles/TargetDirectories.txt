@@ -1,0 +1,3 @@
+/home/ymao/git/github/Games101-Aufgaben/Aufgabe-1/build/CMakeFiles/rebuild_cache.dir
+/home/ymao/git/github/Games101-Aufgaben/Aufgabe-1/build/CMakeFiles/edit_cache.dir
+/home/ymao/git/github/Games101-Aufgaben/Aufgabe-1/build/CMakeFiles/Rasterizer.dir
